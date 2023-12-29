@@ -2,10 +2,10 @@
 
 ```mermaid
 graph LR
-Intro --> Programming --> AI --> ML --> DL --> CV & NLP & RL
+Node1[Intro] --> Programming --> AI --> ML --> DL --> CV & NLP & RL
 Programming --> Algorithm
-Intro --> Command-Line --> System --> Network
-Intro --> Database --> Web
+Node1[Intro] --> Command-Line --> System --> Network
+Node1[Intro] --> Database --> Web
 ```
 
 ## Intro
