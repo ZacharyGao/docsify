@@ -174,7 +174,7 @@ Intro --> Database --> Web
 
 ---
 
-## How to choose an Intro ML course in CMU?
+## How to choose an Intro ML course at CMU?
 
 The machine learning department offers four different “Introduction to Machine Learning” courses: 10-301/10-601, 10-315, 10-701, and 10-715, as well as a preparatory course 10-606/10-607. All four “Introduction” courses have a similar goal: to introduce students to the theory and practice of machine learning. That is, students who take these courses will be able to:
 

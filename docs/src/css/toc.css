@@ -125,7 +125,7 @@ aside.nav.nothing {
     color: var(--color-text);
     text-decoration: none;
     font-weight: 600;
-    opacity: 0.7;
+    opacity: 0.9;
     /* font-weight: bold; */
     line-height: 1.6em;
 }
