@@ -12,6 +12,8 @@
 
 - Details
   - [Diffusion Model](diffusion.md)
+  - [Computer Networks (1)](networks_1.md)
+  - [Computer Networks (2)](networks_2.md)
 
 <!-- - Getting started
 
